@@ -62,4 +62,5 @@ def main():
             break
         else:
             print('Неверная команда')
+
 main()
